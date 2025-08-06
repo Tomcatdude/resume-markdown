@@ -2,7 +2,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;San Jose, CA 95126 | (303) 656-1381 | thomas.a.odem@gmail.com
 
-**OBJECTIVE**: Job Title, Lab (if applicable), Business Name
+**OBJECTIVE**: Job Title, Lab/Team (if applicable), Business Name
 
 **EDUCATION**  
 
