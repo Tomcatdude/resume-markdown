@@ -155,6 +155,6 @@ Python, Pytorch, TensorFlow, SciKit-Learn, C, C++, C#, MatLab, Java, JavaScript,
 **HONORS AND ACTIVITIES**
 
 ---
-**Building Intelligent Recommender Systems DLI Certificate**, NVIDIA, November 2022
-**Outstanding Student Project Award, Technische Hochschule Ingolstadt**, Spring 2024
-**Student Mentor, University of Colorado Denver Engineering Mentor Program**, Aug 2020- May 2023
+**Building Intelligent Recommender Systems DLI Certificate**, NVIDIA, November 2022  
+**Outstanding Student Project Award, Technische Hochschule Ingolstadt**, Spring 2024  
+**Student Mentor, University of Colorado Denver Engineering Mentor Program**, Aug 2020- May 2023  
