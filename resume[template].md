@@ -17,13 +17,13 @@ University of Colorado Denver, Denver, CO
 **RELATED COURSEWORK**
 
 ---
-Programming in Python, C++, C, C#, Java, React, and more, Machine Learning, Computer Vision, Natural Language Processing, ML on Graphs, Leadership, Negotiation, Ethics, Human-Machine Interaction, Distributed Systems, Data Structures and Algorithms, Computer Architecture, Object-Oriented Programming, Computer Networks, Software Engineering, Linux Development, Windows Development
+Programming in Python, C++, C, C#, Java, TypeScript, React, and more, Machine Learning, Computer Vision, Natural Language Processing, ML on Graphs, Leadership, Negotiation, Ethics, Human-Machine Interaction, Distributed Systems, Data Structures and Algorithms, Computer Architecture, Object-Oriented Programming, Computer Networks, Software Engineering, Linux Development, Windows Development
 
 
 **TECHNICAL SKILLS**
 
 ---
-Python, Pytorch, TensorFlow, SciKit-Learn, C, C++, C#, MatLab, Java, JavaScript, React, React Native, React Redux, Julia, Rust, Racket, SQL, HTML, WebAssembly, CI/CD Development, AWS, Google Cloud, MS Office, Google-fu
+Python, Pytorch, TensorFlow, SciKit-Learn, Pandas, Numpy, C, C++, C#, MatLab, Java, JavaScript, TypeScript, React, React Native, React Redux, Julia, Rust, Racket, SQL, HTML, WebAssembly, CI/CD Development, AWS, Google Cloud, MS Office, Google-fu
 
 
 **PROJECTS**
@@ -113,11 +113,11 @@ Python, Pytorch, TensorFlow, SciKit-Learn, C, C++, C#, MatLab, Java, JavaScript,
 
 ---
 **Computer Scientist**, SRI International, Menlo Park, CA, April 2025-Present
-* Analyze real world data using tools like SciPy, SK-Learn, Pandas, NumPy, and more
-* Collaborate with cross-functional teams to design analysation tools and software.
-* Independently evaluate, refine, and develop tools in a Linux environment for transforming and analyzing data
-* Use GIT versional control architecture
-* Curate research reports slide decks for analysis and present to stakeholders
+* Analyze real world data using tools like SciPy, SK-Learn, Pandas, NumPy, and more.
+* Collaborate with cross-functional teams to design, develop, and deploy analysation tools and software.
+* Independently evaluate, refine, and develop tools in a Linux environment for transforming and analyzing data.
+* Use GIT versional control architecture.
+* Curate and presente research reports and slide decks to both technical and non-technical stakeholders, effectively communicating complex findings.
 
 **Center Director**, Code Ninjas, Evergreen, CA, Feb 2024-Present
 * In charge of running a Code Ninjas center and leading the center's staff.
