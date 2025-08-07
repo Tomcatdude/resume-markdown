@@ -100,7 +100,7 @@ Python, PyTorch, TensorFlow, SciKit-Learn, Pandas, NumPy, C, C++, C#, MatLab, Ja
 * Formed an adaptive leadership style that was used both in-class and in professional settings to increase team trust, communication, and productivity.
 
 **Cloud Computing**, SJSU, Spring 2024
-* Independently prototyped, developed, and iterated upon multiple GUI interfaces within AWS (E.g. ECS, DynamoDB, Lambda, etc.) and Google Cloud service using React and WebAssembly in a Linux environment.
+* Independently prototyped, developed, and iterated upon multiple GUI interfaces within AWS technologies such as ECS, DynamoDB, Lambda, etc. and Google Cloud service using React and WebAssembly in a Linux environment.
 * Used Continuous Integration and Continuous Deployment, paired with developed tests, to ensure the quality of developed code before deployment to the cloud.
 * Created large distributed systems in various cloud platforms that took advantage of cloud-based storage, databases, hosting, networking, and security.
 
