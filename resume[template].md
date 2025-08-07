@@ -23,14 +23,14 @@ Programming in Python, C++, C, C#, Java, TypeScript, React, and more, Machine Le
 **TECHNICAL SKILLS**
 
 ---
-Python, Pytorch, TensorFlow, SciKit-Learn, Pandas, Numpy, C, C++, C#, MatLab, Java, JavaScript, TypeScript, React, React Native, React Redux, Julia, Rust, Racket, SQL, HTML, WebAssembly, CI/CD Development, AWS, Google Cloud, MS Office, Google-fu
+Python, PyTorch, TensorFlow, SciKit-Learn, Pandas, NumPy, C, C++, C#, MatLab, Java, JavaScript, TypeScript, React, React Native, React Redux, Julia, Rust, Racket, GIT, SQL, HTML, WebAssembly, CI/CD Development, AWS, Google Cloud, MS Office, Google-fu
 
 
 **PROJECTS**
 
 ---
 **Masters Thesis**, SRI International & SJSU, Fall 2024-Spring 2025
-* Collaborated with SRI International to complete a year long research project in the field of anticipatory human-machine interaction.
+* Collaborated with SRI International to complete a year-long research project in the field of anticipatory human-machine interaction.
 * Independently developed an ML framework in Python for detecting key strategies and meaningful subtasks from user computer interaction data gathered while users completed various tasks at international hacking events.
 * Employed clustering techniques, NLP, factor analysis, and more to isolate clusters of users into strategies based on their computer interactions.
 * Developed novel hierarchical encoding algorithms to identify subtasks and hierarchically encode user run data with identified subtasks.
@@ -80,7 +80,7 @@ Python, Pytorch, TensorFlow, SciKit-Learn, Pandas, Numpy, C, C++, C#, MatLab, Ja
 * Developed a data engineering method and random forest voting classifier for a new unlabeled malware class that outperformed competing group classifiers by a large margin.
 
 **Machine Learning**, Yonsei University, Spring 2022
-* Worked with an international team of students to create machine learning models that predict various aspects of a person’s life(health, depression levels, eating habits,etc) based on their daily activities.
+* Worked with an international team of students to create machine learning models that predict various aspects of a person’s life(health, depression levels, eating habits, etc.) based on their daily activities.
 * Collaborated with peers of various cultural backgrounds to deliver a professional presentation of our findings.
 * Used random forest, multiple linear regression, decision tree, and naive Bayes models to predict outcomes based on daily user habits.
 
@@ -92,7 +92,7 @@ Python, Pytorch, TensorFlow, SciKit-Learn, Pandas, Numpy, C, C++, C#, MatLab, Ja
 
 **AI with Reinforcement Learning**, University of Colorado Denver, Spring 2023
 * Used various machine learning methods to design agents to complete tasks.
-* Independently developed an agent to move around a large environment to pick up supplies and return the supplies back to its original location without colliding into various objects placed around the environment.
+* Independently developed an RL agent to move around a large environment to pick up supplies and return the supplies back to its original location without colliding into various objects placed around the environment.
 * Used monte carlo, temporal difference, and other methods to create reinforcement learning models.
 
 **Senior Research Seminar**, University of Colorado Denver, Spring 2023
@@ -105,7 +105,7 @@ Python, Pytorch, TensorFlow, SciKit-Learn, Pandas, Numpy, C, C++, C#, MatLab, Ja
 * Formed an adaptive leadership style that was used both in-class and in professional settings to increase team trust, communication, and productivity.
 
 **Cloud Computing**, SJSU, Spring 2024
-* Independently prototyped, developed, and iterated upon multiple GUI interfaces within AWS and Google Cloud service using React and WebAssembly in a Linux environment.
+* Independently prototyped, developed, and iterated upon multiple GUI interfaces within AWS (E.g. ECS, DynamoDB, Lambda, etc.) and Google Cloud service using React and WebAssembly in a Linux environment.
 * Used Continuous Integration and Continuous Deployment, paired with developed tests, to ensure the quality of developed code before deployment to the cloud.
 * Created large distributed systems in various cloud platforms that took advantage of cloud-based storage, databases, hosting, networking, and security.
 
@@ -113,11 +113,13 @@ Python, Pytorch, TensorFlow, SciKit-Learn, Pandas, Numpy, C, C++, C#, MatLab, Ja
 
 ---
 **Computer Scientist**, SRI International, Menlo Park, CA, April 2025-Present
+* Contribute to the ASCEND project, with project details and research at <www.sri.com/ascend>.
 * Analyze real world data using tools like SciPy, SK-Learn, Pandas, NumPy, and more.
-* Collaborate with cross-functional teams to design, develop, and deploy analysation tools and software.
-* Independently evaluate, refine, and develop tools in a Linux environment for transforming and analyzing data.
+* Collaborate with cross-functional teams to design, develop, and deploy analysation tools and software, ensuring seamless integration into existing production pipelines.
+* Independently evaluate, refine, and develop novel analyzation tools in a Linux environment that integrate into existing production pipelines and speed up analysis runtime from hours to minutes.
 * Use GIT versional control architecture.
-* Curate and presente research reports and slide decks to both technical and non-technical stakeholders, effectively communicating complex findings.
+* Use analyzation pipelines to conduct research and derive insights from real-world participant data, informing the development of new cognitive vulnerabilities and trackable behavior in cyber attackers.
+* Curate and present research reports and slide decks to both technical and non-technical stakeholders, effectively communicating complex findings.
 
 **Center Director**, Code Ninjas, Evergreen, CA, Feb 2024-Present
 * In charge of running a Code Ninjas center and leading the center's staff.
@@ -156,5 +158,5 @@ Python, Pytorch, TensorFlow, SciKit-Learn, Pandas, Numpy, C, C++, C#, MatLab, Ja
 
 ---
 **Building Intelligent Recommender Systems DLI Certificate**, NVIDIA, November 2022  
-**Outstanding Student Project Award, Technische Hochschule Ingolstadt**, Spring 2024  
+**Outstanding Student Project Award**, Technische Hochschule Ingolstadt, Spring 2024  
 **Student Mentor, University of Colorado Denver Engineering Mentor Program**, Aug 2020- May 2023  
