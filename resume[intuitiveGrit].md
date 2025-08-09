@@ -79,11 +79,6 @@ Python, PyTorch, TensorFlow, SciKit-Learn, Pandas, NumPy, C, C++, C#, MatLab, Ja
 * Independently created an HMM model in C++ that was used to decipher texts such as the Zodiac ciphers.
 * Developed a data engineering method and random forest voting classifier for a new unlabeled malware class that outperformed competing group classifiers by a large margin.
 
-**Machine Learning**, Yonsei University, Spring 2022
-* Worked with an international team of students to create machine learning models that predict various aspects of a person’s life(health, depression levels, eating habits, etc.) based on their daily activities.
-* Collaborated with peers of various cultural backgrounds to deliver a professional presentation of our findings.
-* Used random forest, multiple linear regression, decision tree, and naive Bayes models to predict outcomes based on daily user habits.
-
 **Machine Learning On Graphs**, SJSU, Fall 2024
 * Led a team in collecting an automotive supply chain dataset and utilized graph neural networks and other ML techniques to predict supply chain links.
 * Utilized graph based ML techniques to solve unique problems in various fields including natural language processing, supply chain analyzation, product recommendations, and more.
@@ -105,7 +100,7 @@ Python, PyTorch, TensorFlow, SciKit-Learn, Pandas, NumPy, C, C++, C#, MatLab, Ja
 * Formed an adaptive leadership style that was used both in-class and in professional settings to increase team trust, communication, and productivity.
 
 **Cloud Computing**, SJSU, Spring 2024
-* Independently prototyped, developed, and iterated upon multiple GUI interfaces within within AWS technologies such as ECS, DynamoDB, Lambda, etc. and Google Cloud service using React and WebAssembly in a Linux environment.
+* Independently prototyped, developed, and iterated upon multiple GUI interfaces within AWS technologies such as ECS, DynamoDB, Lambda, etc. and Google Cloud service using React and WebAssembly in a Linux environment.
 * Used Continuous Integration and Continuous Deployment, paired with developed tests, to ensure the quality of developed code before deployment to the cloud.
 * Created large distributed systems in various cloud platforms that took advantage of cloud-based storage, databases, hosting, networking, and security.
 
@@ -122,36 +117,17 @@ Python, PyTorch, TensorFlow, SciKit-Learn, Pandas, NumPy, C, C++, C#, MatLab, Ja
 * Curate and present research reports and slide decks to both technical and non-technical stakeholders, effectively communicating complex findings.
 
 **Center Director**, Code Ninjas, Evergreen, CA, Feb 2024-Present
-* In charge of running a Code Ninjas center and leading the center's staff.
-* Collaborate with team members to create more streamlined workflows.
-* Developing software for tracking customer currency and transactions.
-* Building a new environment for staff and customers from the ground up.
-* Communicate with customers to ensure satisfaction and set customer goals.
+* In charge of running a Code Ninjas center and **leading the center's staff**.
+* **Collaborate** with team members to create more streamlined workflows and develop software for tracking customer currency and transactions.
+* **Communicate with customers** to ensure satisfaction and set customer goals.
 * Increased customer sign-up rate by 20%.
 
 
-> **Lead Coding Instructor**, Code Ninjas, Evergreen, CA, Parker, CO, Jan 2023-Feb 2024
-> * Led a team to streamline workflows and ensure quality operations.
-> * Collaborated with a large team to create new reachable goals.
-> * Leveraged team member skills to deliver a quality experience for customers.
-> * Worked with team members to create and optimize various workflow systems.
-> * Managed multiple center systems and maintained an operating schedule.
-> * Invented new systems and customer opportunities from the ground up.
-> * Conducted job interviews and oversaw a large part of the hiring process.
-> * Increased the company's user-satisfaction rating by 15%.
-
-> **Co-Lead Coding Instructor**, Code Ninjas, Parker/Castle Rock, CO, Dec 2021-Jan 2023
-> * Collaborated with lead to help streamline workflows and ensure quality operations.
-> * Worked with lead to implement and communicate workflows with our team.
-> * Supervised team to ensure quality work.
-> * Trained new and existing team members.
-
-> **Coding Instructor**, Code Ninjas, Parker/Aurora, CO, May 2021-December 2021
-> * Collaborated with peers to create a unique and thriving atmosphere
-> * Worked with children to teach them how to program games in Python, Javascript, C# using Unity, and LUA using Roblox Studio.
-> * Communicated with children and parents about successes and downfalls in our program.
-> * Worked with senior-leadership to deliver quality work.
-> * Cleaned and organized the center.
+> **Lead Coding Instructor (Multiple Positions)**, Code Ninjas, Parker, CO, Dec 2021-Feb 2024
+> * **Led a team** to streamline workflows, ensure quality operations, and manage center systems.
+> * **Trained new and existing team members** and oversaw a large part of the hiring process.
+> * **Collaborated** with peers to create a unique and thriving atmosphere.
+> * **Communicated** with children and parents about successes and downfalls in our program.
     
 
 **HONORS AND ACTIVITIES**
